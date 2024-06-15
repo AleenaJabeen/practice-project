@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    height:10%;
+    width: 100%;
+}
+.Navbar ul{
+display:flex;
+justify-content: flex-start;
+align-items: center;
+margin:25px;
+}
+.Navbar ul li{
+    padding-right: 25px;
+    list-style: none;
+    font-size: 1.2rem;
+    font-family: cursive;
+}
